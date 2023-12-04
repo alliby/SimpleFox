@@ -30,10 +30,10 @@ by Miguel Avila
 /* want to show the URL Bar    */
 /*─────────────────────────────*/
 
-.urlbarView {
+/* .urlbarView {
   display: none !important;
 }
-
+ */
 /*─────────────────────────────*/
 
 /* 
@@ -88,9 +88,10 @@ by Miguel Avila
 */
 
 /* Tabs elements  */
-.tab-close-button {
+/* .tab-close-button {
   display: none;
 }
+ */
 
 .tabbrowser-tab:not([pinned]) .tab-icon-image {
   display: none !important;
